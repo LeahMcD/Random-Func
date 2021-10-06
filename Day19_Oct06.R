@@ -1,5 +1,13 @@
 ## PlotRandom.R
 ##
+
+## Doing stuff in GitHub/RStudio
+## 1. Go to GitHub
+## 2. Create a new Repo
+## 3. RStudio: Create a new Version Control project connected to GitHub repo
+## 4. Working in RStudio - Commit and push files
+##
+##
 ## Purpose:
 ##    A function that will generate a random sample
 ##     of Normal values, plot a histogram with an 
